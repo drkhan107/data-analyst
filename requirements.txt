@@ -1,0 +1,7 @@
+fastapi  # Or latest stable version
+uvicorn # ASGI server with standard dependencies
+pandas
+matplotlib
+numpy
+pydantic # FastAPI depends on Pydantic
+seaborn
